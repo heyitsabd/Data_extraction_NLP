@@ -1,0 +1,52 @@
+Budget, Sales KPI Dashboard using Power BI
+
+
+Project Description
+Weekly Data – clustered bar chart for weekly Budget & Actual value , weekly Total Budget & Actual value (completed)YTD Data – clustered bar chart for monthly Budget & Actual value , monthly Total Budget & Actual value (completed)Sales History – stacked chart for yearly sales with each month sales , total yearly sale (completed)Dashlet – weekly data – Total weekly Budget , Total weekly Actual , % weekly Budget (completed)Dashlet – YTD data – Total YTD Budget , Total YTD Actual , % YTD Budget (completed)Dashlet – Sales History – Total Sales (completed)Filters – select Area , select City , select Years (completed)
+
+Data Visualization Deliverables
+PresentationMapDashboardAPI Integration
+
+Data Visualization Tools
+KibanaGoogle Data StudioMicrosoft ExcelMicrosoft Power BI
+Data Visualization Languages
+JavaScriptSQLPythonDAX
+
+Demo
+
+
+
+
+
+
+
+Previous articleBenefits of Big Data in Different fieldsNext articleELK Stack – Elastic Queries Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+
+ 
+
+
+
+ 
+
+Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+
+ 
+
+
+
+ 
+
+Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+
+  
+
+ 
+
