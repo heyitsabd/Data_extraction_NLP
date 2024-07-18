@@ -37,11 +37,10 @@ for url_cell, id_cell in zip(url_cells, id_cells):
                 content += web_content.text + '\n'
     
         # Save the content to a text file named after the URL ID
-        # with open(f'./Extracted_Data/{url_id}.txt', 'w', encoding='utf-8') as file:
-        #     file.write(content)
-        # Append the data to the dictionary
-        # data['URL_ID'].append(url_id)
-        # data['WebData'].append(content)
+        with open(f'./Extracted_Data/{url_id}.txt', 'w', encoding='utf-8') as file:
+            file.write(content)
+        data['URL_ID'].append(url_id)
+        data['WebData'].append(content)
     
     except requests.exceptions.RequestException as e:
         print(f"Error fetching {url}: {e}")
